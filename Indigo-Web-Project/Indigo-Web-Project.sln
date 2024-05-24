@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indigo-Web-Project", "Indigo-Web-Project.csproj", "{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "..\DataBase\DataBase.csproj", "{4CA4C190-A97C-4240-BA77-684FDE0B6E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA4C190-A97C-4240-BA77-684FDE0B6E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA4C190-A97C-4240-BA77-684FDE0B6E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA4C190-A97C-4240-BA77-684FDE0B6E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA4C190-A97C-4240-BA77-684FDE0B6E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4B71D5-2438-43F0-ADBD-5D60FF788020}
+	EndGlobalSection
+EndGlobal
