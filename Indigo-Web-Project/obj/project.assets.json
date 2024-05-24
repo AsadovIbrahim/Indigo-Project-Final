@@ -46,6 +46,19 @@
           }
         }
       },
+      "FluentValidation/11.9.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Humanizer/2.14.1": {
         "type": "package",
         "dependencies": {
@@ -2891,6 +2904,31 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "FluentValidation/11.9.1": {
+      "sha512": "C+PqISSMdlOZZJx0Hx25atW32tv4vbpsaiQB+PLjK+ZGLzOFuHl1fUJ3Lny77mIZ31ZtYtNG0JgUjxa3wwLsWg==",
+      "type": "package",
+      "path": "fluentvalidation/11.9.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.9.1.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/net8.0/FluentValidation.dll",
+        "lib/net8.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
       ]
     },
     "Humanizer/2.14.1": {
@@ -8025,6 +8063,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "DataBase >= 1.0.0",
+      "FluentValidation >= 11.9.1",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.5",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.2"
     ]
@@ -8035,11 +8074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ca.r215.06\\source\\repos\\Indigo-Web-Project\\Indigo-Web-Project.csproj",
+      "projectUniqueName": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Indigo-Web-Project.csproj",
       "projectName": "Indigo-Web-Project",
-      "projectPath": "C:\\Users\\ca.r215.06\\source\\repos\\Indigo-Web-Project\\Indigo-Web-Project.csproj",
+      "projectPath": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Indigo-Web-Project.csproj",
       "packagesPath": "C:\\Users\\ca.r215.06\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ca.r215.06\\source\\repos\\Indigo-Web-Project\\obj\\",
+      "outputPath": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ca.r215.06\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8057,8 +8096,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ca.r215.06\\source\\repos\\DataBase\\DataBase.csproj": {
-              "projectPath": "C:\\Users\\ca.r215.06\\source\\repos\\DataBase\\DataBase.csproj"
+            "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\DataBase\\DataBase.csproj": {
+              "projectPath": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\DataBase\\DataBase.csproj"
             }
           }
         }
@@ -8078,6 +8117,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[11.9.1, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

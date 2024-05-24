@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca.r215.06\\source\\repos\\Indigo-Web-Project\\Indigo-Web-Project.csproj": {}
+    "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Indigo-Web-Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca.r215.06\\source\\repos\\DataBase\\DataBase.csproj": {
+    "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\DataBase\\DataBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r215.06\\source\\repos\\DataBase\\DataBase.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\DataBase\\DataBase.csproj",
         "projectName": "DataBase",
-        "projectPath": "C:\\Users\\ca.r215.06\\source\\repos\\DataBase\\DataBase.csproj",
+        "projectPath": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\DataBase\\DataBase.csproj",
         "packagesPath": "C:\\Users\\ca.r215.06\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r215.06\\source\\repos\\DataBase\\obj\\",
+        "outputPath": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\DataBase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ca.r215.06\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\ca.r215.06\\source\\repos\\Indigo-Web-Project\\Indigo-Web-Project.csproj": {
+    "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Indigo-Web-Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r215.06\\source\\repos\\Indigo-Web-Project\\Indigo-Web-Project.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Indigo-Web-Project.csproj",
         "projectName": "Indigo-Web-Project",
-        "projectPath": "C:\\Users\\ca.r215.06\\source\\repos\\Indigo-Web-Project\\Indigo-Web-Project.csproj",
+        "projectPath": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Indigo-Web-Project.csproj",
         "packagesPath": "C:\\Users\\ca.r215.06\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r215.06\\source\\repos\\Indigo-Web-Project\\obj\\",
+        "outputPath": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ca.r215.06\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -120,8 +120,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ca.r215.06\\source\\repos\\DataBase\\DataBase.csproj": {
-                "projectPath": "C:\\Users\\ca.r215.06\\source\\repos\\DataBase\\DataBase.csproj"
+              "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\DataBase\\DataBase.csproj": {
+                "projectPath": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\DataBase\\DataBase.csproj"
               }
             }
           }
@@ -141,6 +141,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

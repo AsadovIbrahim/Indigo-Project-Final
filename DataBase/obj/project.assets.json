@@ -4323,11 +4323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ca.r215.06\\source\\repos\\DataBase\\DataBase.csproj",
+      "projectUniqueName": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\DataBase\\DataBase.csproj",
       "projectName": "DataBase",
-      "projectPath": "C:\\Users\\ca.r215.06\\source\\repos\\DataBase\\DataBase.csproj",
+      "projectPath": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\DataBase\\DataBase.csproj",
       "packagesPath": "C:\\Users\\ca.r215.06\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ca.r215.06\\source\\repos\\DataBase\\obj\\",
+      "outputPath": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\DataBase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ca.r215.06\\AppData\\Roaming\\NuGet\\NuGet.Config",

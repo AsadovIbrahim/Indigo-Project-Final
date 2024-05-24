@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "X4MSow4qolc=",
+  "dgSpecHash": "l880v4hc+1w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ca.r215.06\\source\\repos\\Indigo-Web-Project\\Indigo-Web-Project.csproj",
+  "projectFilePath": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Indigo-Web-Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ca.r215.06\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ca.r215.06\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\ca.r215.06\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
     "C:\\Users\\ca.r215.06\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ca.r215.06\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ca.r215.06\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
