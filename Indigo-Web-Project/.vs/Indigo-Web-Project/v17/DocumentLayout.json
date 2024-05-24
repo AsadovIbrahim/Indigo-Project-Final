@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|c:\\users\\ca.r215.06\\source\\repos\\final\\indigo-web-project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|c:\\users\\ca.r215.06\\source\\repos\\final\\indigo-web-project\\areas\\admin\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|solutionrelative:areas\\admin\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|c:\\users\\ca.r215.06\\source\\repos\\final\\indigo-web-project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|c:\\users\\ca.r215.06\\source\\repos\\final\\indigo-web-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|c:\\users\\ca.r215.06\\source\\repos\\final\\indigo-web-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|c:\\users\\ca.r215.06\\source\\repos\\final\\indigo-web-project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|c:\\users\\ca.r215.06\\source\\repos\\final\\indigo-web-project\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,14 +39,6 @@
       "RelativeMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|c:\\users\\ca.r215.06\\source\\repos\\final\\indigo-web-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|c:\\users\\ca.r215.06\\source\\repos\\final\\indigo-web-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|c:\\users\\ca.r215.06\\source\\repos\\final\\indigo-web-project\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CABBCFC-7B06-403A-B249-1A5B2DAE00FE}|Indigo-Web-Project.csproj|solutionrelative:viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Areas\\Admin\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Areas\\Admin\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:10:40.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\ViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\RegisterVM.cs",
@@ -66,20 +83,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T06:11:24.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -91,19 +108,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T06:10:14.235Z"
+              "WhenOpened": "2024-05-24T06:10:14.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\ViewModels\\LoginVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\LoginVM.cs",
@@ -115,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -127,19 +145,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T05:51:52.445Z"
+              "WhenOpened": "2024-05-24T05:51:52.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -157,7 +176,7 @@
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T05:27:54.448Z",
               "EditorCaption": ""

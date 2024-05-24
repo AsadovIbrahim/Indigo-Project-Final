@@ -30688,6 +30688,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\manage\vendor\jquery\jquery.slim.min.map))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\2aaea988-29b1-4060-9772-30d0282c3df253255b5f983bb41982ec31d0416166af.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Indigo-Web-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Indigo-Web-Project</BasePath>
+      <RelativePath>Upload/manage/2aaea988-29b1-4060-9772-30d0282c3df253255b5f983bb41982ec31d0416166af.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\2aaea988-29b1-4060-9772-30d0282c3df253255b5f983bb41982ec31d0416166af.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\54a3ea86-7bf3-48ef-b899-87ddba16c4a1Fernando_Muslera_in_2021.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Indigo-Web-Project</SourceId>
@@ -30703,6 +30719,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\54a3ea86-7bf3-48ef-b899-87ddba16c4a1Fernando_Muslera_in_2021.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\d29af34b-648b-40c0-a04f-323b3079960bFernando_Muslera_in_2021.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Indigo-Web-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Indigo-Web-Project</BasePath>
+      <RelativePath>Upload/manage/d29af34b-648b-40c0-a04f-323b3079960bFernando_Muslera_in_2021.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\d29af34b-648b-40c0-a04f-323b3079960bFernando_Muslera_in_2021.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\f029f0f4-2122-4e52-8c79-cb420ecb3b04Screenshot 2024-01-15 141449.png))">
       <SourceType>Package</SourceType>

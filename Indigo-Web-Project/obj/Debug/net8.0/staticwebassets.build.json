@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iUf+YBCAeApsVuYKKjALXCEh9T7fPJh7Omj8HQx2SeE=",
+  "Hash": "8Ft00ILmIiRYbePSNZLNS7clCN209YUb0rq96M6LUDE=",
   "Source": "Indigo-Web-Project",
   "BasePath": "_content/Indigo-Web-Project",
   "Mode": "Default",
@@ -36478,6 +36478,25 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendor\\jquery-easing\\jquery.easing.min.js"
     },
     {
+      "Identity": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\wwwroot\\Upload\\manage\\2aaea988-29b1-4060-9772-30d0282c3df253255b5f983bb41982ec31d0416166af.jpg",
+      "SourceId": "Indigo-Web-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\wwwroot\\",
+      "BasePath": "_content/Indigo-Web-Project",
+      "RelativePath": "Upload/manage/2aaea988-29b1-4060-9772-30d0282c3df253255b5f983bb41982ec31d0416166af.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\manage\\2aaea988-29b1-4060-9772-30d0282c3df253255b5f983bb41982ec31d0416166af.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\wwwroot\\Upload\\manage\\54a3ea86-7bf3-48ef-b899-87ddba16c4a1Fernando_Muslera_in_2021.jpg",
       "SourceId": "Indigo-Web-Project",
       "SourceType": "Discovered",
@@ -36495,6 +36514,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Upload\\manage\\54a3ea86-7bf3-48ef-b899-87ddba16c4a1Fernando_Muslera_in_2021.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\wwwroot\\Upload\\manage\\d29af34b-648b-40c0-a04f-323b3079960bFernando_Muslera_in_2021.jpg",
+      "SourceId": "Indigo-Web-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\wwwroot\\",
+      "BasePath": "_content/Indigo-Web-Project",
+      "RelativePath": "Upload/manage/d29af34b-648b-40c0-a04f-323b3079960bFernando_Muslera_in_2021.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\manage\\d29af34b-648b-40c0-a04f-323b3079960bFernando_Muslera_in_2021.jpg"
     },
     {
       "Identity": "C:\\Users\\ca.r215.06\\source\\repos\\FINAL\\Indigo-Web-Project\\wwwroot\\Upload\\manage\\f029f0f4-2122-4e52-8c79-cb420ecb3b04Screenshot 2024-01-15 141449.png",

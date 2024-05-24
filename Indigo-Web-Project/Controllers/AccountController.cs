@@ -1,4 +1,5 @@
 ﻿using DataBase.Entities.Concretes;
+using Indigo_Web_Project.Helper;
 using Indigo_Web_Project.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -10,12 +11,25 @@ namespace Indigo_Web_Project.Controllers
 
         private readonly UserManager<User> _userManager;
         private readonly SignInManager<User> _sigInManager;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
         public AccountController(UserManager<User> userManager, SignInManager<User> signInManager)
         {
             _userManager = userManager;
             _sigInManager = signInManager;
         }
+
+        //public async Task<IActionResult> CreateRole()
+        //{
+        //    foreach (var item in Enum.GetValues(typeof(Role)))
+        //    {
+        //        await _roleManager.CreateAsync(new IdentityRole()
+        //        {
+        //            Name = item.ToString(),
+        //        });
+        //    }
+        //    return Ok();
+        //}
         [HttpGet]
         public IActionResult Register()
         {
@@ -45,6 +59,7 @@ namespace Indigo_Web_Project.Controllers
                 }
                 return View();
             }
+            //await _userManager.AddToRoleAsync(user, Role.Member.ToString());
             return RedirectToAction("Login");
 
         }
